@@ -6,6 +6,16 @@
     <title>ELEIÇÕES</title>
 </head>
 <body>
+
+<style>
+
+Body {
+                font-family: Arial, Arial, Helvetica, sans-serif;
+                background-image: linear-gradient(45deg, rgb(55, 0, 255) , rgb(0, 255, 55));
+
+            }
+    </style>
+
     <form method="post" action="">
         <label for="idade">Insira sua idade: </label>
         <input type="number" id="idade" name="idade">
