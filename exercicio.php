@@ -5,19 +5,6 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>ELEIÇÕES</title>
 </head>
-<style>
-        Body {
-                font-family: Arial, Arial, Helvetica, sans-serif;
-                background-image: linear-gradient(45deg, rgb(19, 219, 235) , rgb(17, 255, 180));
-                color:
-
-     }
-        div
-    { 
-                }
-
-    </style>
-
 <body>
     <form method="post" action="">
         <label for="idade">Insira sua idade: </label>
